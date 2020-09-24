@@ -3,3 +3,4 @@
 - des
 - rsa
 - pseudorandom number generator
+- elgamal
