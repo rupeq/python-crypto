@@ -5,3 +5,4 @@
 - pseudorandom number generator
 - elgamal
 - digital signature using RSA
+- digital signature using GOST P34 11 94
